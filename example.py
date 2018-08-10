@@ -1,5 +1,3 @@
-# const 模块就是这道题要求我们自己写的
-# const 模块用于让 Python 支持常量操作
 import const
 
 const.NAME = "FishC"
